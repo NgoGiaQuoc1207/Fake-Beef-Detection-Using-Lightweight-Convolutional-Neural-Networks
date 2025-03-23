@@ -18,3 +18,5 @@ Preprocessing with HSV and edge detection for better feature extraction.
 Achieves over 90% accuracy on the test set.
 
 Designed for deployment via API.
+
+co-author with HMTUAN211224
